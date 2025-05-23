@@ -1,0 +1,2428 @@
+{
+  "nodes": [
+    {
+      "id": "José Manuel Aguilar Alfaro",
+      "nombre": "José Manuel Aguilar Alfaro",
+      "email": "jaguilar@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Negocios Digitales"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/25754110/aguilar-alfaro-jose-manuel.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Estrategia Organizacional",
+        "Gestión de la Innovación",
+        "Gestión Financiera",
+        "Comportamiento del Consumidor"
+      ]
+    },
+    {
+      "id": "Grace Alexandrino Ocaña",
+      "nombre": "Grace Alexandrino Ocaña",
+      "email": null,
+      "departamentos": [
+        "Departamento de Humanidades, Artes y Ciencias Sociales"
+      ],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/24799661/alexandrino-ocana-grace.jpg?w=50&f=jpg",
+      "renacyt": "Nivel VII",
+      "temas": [
+        "Arqueología",
+        "Antropología",
+        "Estudios de Patrimonio"
+      ]
+    },
+    {
+      "id": "Helard Alvarez Sanchez",
+      "nombre": "Helard Alvarez Sanchez",
+      "email": "halvarez@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/18891305/alvarez_sanchez_helard.jpg?w=50&f=jpg",
+      "renacyt": "Nivel VII",
+      "temas": [
+        "Diseño, fabricación y construcción de estructuras mecánicas.",
+        "Estructuras mecánicas para minería."
+      ]
+    },
+    {
+      "id": "Claudia Antonini Bova",
+      "nombre": "Claudia Antonini Bova",
+      "email": "cantonini@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/18891487/antonini_bova_claudia.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Matemática aplicada",
+        "estadística",
+        "geoestadística",
+        "investigación de operaciones",
+        "simulaciones",
+        "sistemas logísticos alimentarios",
+        "logística y ventas del canal tradicional."
+      ]
+    },
+    {
+      "id": "Sergio Aranda Egusquiza",
+      "nombre": "Sergio Aranda Egusquiza",
+      "email": "saranda@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19172342/aranda_egusquiza_sergio.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Sistemas inteligentes.",
+        "Redes de comunicación."
+      ]
+    },
+    {
+      "id": "Patricia Araujo Pantoja",
+      "nombre": "Patricia Araujo Pantoja",
+      "email": "paraujo@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Mecánica y de la Energía"
+      ],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/25783439/araujo-pantoja-patricia.jpg?w=50&f=jpg",
+      "renacyt": "Nivel VI",
+      "temas": [
+        "Área de energía",
+        "Responsabilidad social.",
+        "Educación",
+        "Medio ambiente",
+        "Énfasis en hidrocarburos (captura y almacenamiento de CO2, combustibles sintéticos, tecnología emergentes como creación de nuevos catalizadores,  nanotecnología, tecnologías de gasificación)",
+        "Biogás y energías de biomasa",
+        "Procesos químicos industriales,"
+      ]
+    },
+    {
+      "id": "Andrés Julián Arias Moreno",
+      "nombre": "Andrés Julián Arias Moreno",
+      "email": "aariasm@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Centro de Investigación en Bioingeniería - BIO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19169634/arias_moreno_andres.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Biomecánica",
+        "Biomateriales",
+        "Elementos micro-finitos",
+        "Estructura ósea"
+      ]
+    },
+    {
+      "id": "Luis Bedriñana Mera",
+      "nombre": "Luis Bedriñana Mera",
+      "email": "lbedrinana@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Civil y Ambiental"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
+        "Centro de Investigación del Cemento y Concreto - CIC",
+        "Centro de Investigación y Conservación del Patrimonio"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/18892117/bedrinana_mera_luis.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge IV",
+      "temas": [
+        "Evaluación experimental y numérica de estructuras de hormigón armado sometidas a cargas extremas",
+        "ingeniería sísmica basada en el rendimiento y el riesgo sísmico",
+        "sistemas estructurales innovadores de bajo daño",
+        "aislamiento sísmico y control de respuesta estructural",
+        "vigilancia de la salud estructural",
+        "materiales de construcción innovadores",
+        "\"ciívionoics\" para respuestas ambientales y mecánicas",
+        "materiales concretos en 3D",
+        "sistemas estructurales con materiales reciclados."
+      ]
+    },
+    {
+      "id": "Omar Bejarano Grández",
+      "nombre": "Omar Bejarano Grández",
+      "email": "obejarano@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/21902885/bejarano_grandez_omar.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "análisis por elementos finitos",
+        "dinámica rígida",
+        "análisis modal",
+        "térmico de sólidos y fluidos"
+      ]
+    },
+    {
+      "id": "Jesús Edwin Bellido Angulo",
+      "nombre": "Jesús Edwin Bellido Angulo",
+      "email": "jbellido@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ciencia de la Computación"
+      ],
+      "grupos": [
+        "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/18891996/bellido_angulo_jesus.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge IV",
+      "temas": [
+        "Ingeniería de software",
+        "arquitectura de software",
+        "Arquitectura Orientada a Servicios",
+        "Big Data"
+      ]
+    },
+    {
+      "id": "Carlos Alberto Benedetty Torres",
+      "nombre": "Carlos Alberto Benedetty Torres",
+      "email": "cbenedetty@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/24489212/benedetty-carlos.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Análisis del comportamiento de materiales para estructuras",
+        "Análisis no lineal de estructuras de concreto armado.",
+        "Concretos reforzados con fibras",
+        "Concretos de ultra alto desempeño",
+        "Estructuras mixtas de acero-concreto.",
+        "Concretos con agregados reciclados"
+      ]
+    },
+    {
+      "id": "Juan Bueno Villanueva",
+      "nombre": "Juan Bueno Villanueva",
+      "email": "jbueno@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19489355/bueno_villanueva_juan.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Sistemas de Información"
+      ]
+    },
+    {
+      "id": "Jhedmar Jhonatan Callupe Luna",
+      "nombre": "Jhedmar Jhonatan Callupe Luna",
+      "email": "jcallupe@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Electrónica y Mecatrónica"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/25685604/callupe-luna-jhedmar-jhonatan.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Bioingeniería",
+        "Inteligencia Artificial"
+      ]
+    },
+    {
+      "id": "Ruth Canahuire Cabello",
+      "nombre": "Ruth Canahuire Cabello",
+      "email": "rcanahuire@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Electrónica y Mecatrónica"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)",
+        "Centro de Investigación en Bioingeniería - BIO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19169709/canahuire_cabello_ruth.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge III",
+      "temas": [
+        "Modelado y control de sistemas mecánicos y mecatrónicos",
+        "Robótica médica",
+        "Robótica móvil"
+      ]
+    },
+    {
+      "id": "Paul Cardenas Lizana",
+      "nombre": "Paul Cardenas Lizana",
+      "email": "pcardenas@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19169784/cardenas_lizana_paul.jpg?w=50&f=jpg",
+      "renacyt": "Nivel VII",
+      "temas": [
+        "Señalización temprana de células T.",
+        "mecanobiología de células T y receptores PD 1",
+        "coreceptores CD8 / CD4",
+        "dominios de señalización CD3",
+        "dinámica molecular",
+        "inmunología molecular",
+        "modelado probabilístico para entender interacciones de biomoléculas",
+        "aprendizaje automático en inmunología",
+        "modelamiento de fluidos a macroescala en sistemas biológicos"
+      ]
+    },
+    {
+      "id": "Samuel Charca Mamani",
+      "nombre": "Samuel Charca Mamani",
+      "email": "scharca@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Mecánica y de la Energía"
+      ],
+      "grupos": [
+        "Centro de Investigación y Conservación del Patrimonio"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19169804/charca_mamani_samuel.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge II",
+      "temas": [
+        "Diseño estructural y caracterización de materiales",
+        "Materiales compuestos con fibras naturales",
+        "Caracterización de materiales para robótica blanda",
+        "Evaluación de daños en materiales estructurales"
+      ]
+    },
+    {
+      "id": "Xyoby Chavez Pacheco",
+      "nombre": "Xyoby Chavez Pacheco",
+      "email": "xchavez@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19169822/chavez_pacheco_xyoby.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Matemática Aplicada",
+        "Modelado de sistemas estocásticos"
+      ]
+    },
+    {
+      "id": "Fabien Cornillier",
+      "nombre": "Fabien Cornillier",
+      "email": "fcornillier@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+      ],
+      "grupos": [
+        "Centro de Investigación en Sostenibilidad Computacional - CompSust",
+        "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19169853/corniller_fabien.jpg?w=50&f=jpg",
+      "renacyt": "MARIA ROSTWOROWSKI I",
+      "temas": [
+        "Investigación de operaciones",
+        "optimización combinatoria",
+        "métodos heurísticos",
+        "aplicaciones en problemas de logística y de planificación (en particular: transporte, minería)."
+      ]
+    },
+    {
+      "id": "Antuané De La Flor Basterrechea",
+      "nombre": "Antuané De La Flor Basterrechea",
+      "email": "adelaflor@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Centro de Impacto y Responsabilidad Social - CIRSO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170012/delaflor_basterrechea_antuane.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Género",
+        "Arte"
+      ]
+    },
+    {
+      "id": "Jose De La Puente Maldonado",
+      "nombre": "Jose De La Puente Maldonado",
+      "email": "jdelapuente@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170040/delapuente_maldonado_jose.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Opeaciones industriales",
+        "Gestión empresarial"
+      ]
+    },
+    {
+      "id": "José Andrés De Leo Martínez",
+      "nombre": "José Andrés De Leo Martínez",
+      "email": "adeleo@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Centro de Investigación y Conservación del Patrimonio"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170063/deleo_martinez_jose.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Arte de los Virreinatos Americanos",
+        "Materialidad y técnicas de patrimonio cultural",
+        "Curaduría y museografía"
+      ]
+    },
+    {
+      "id": "Jose Gerardo Deustua Rossel",
+      "nombre": "Jose Gerardo Deustua Rossel",
+      "email": "jdeustua@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/21821347/deustua_rossel_jose_gerardo.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": []
+    },
+    {
+      "id": "Manuel Arturo Deza Figueroa",
+      "nombre": "Manuel Arturo Deza Figueroa",
+      "email": "mdeza@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ciencia de la Computación"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/24106839/deza-figueroa-arturo.jpg?w=50&f=jpg",
+      "renacyt": "Nivel VII",
+      "temas": [
+        "Sistemas perceptivos híbridos",
+        "Representation Learning",
+        "Robótica"
+      ]
+    },
+    {
+      "id": "Alberto Donayre Torres",
+      "nombre": "Alberto Donayre Torres",
+      "email": "adonayre@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Centro de Investigación en Bioingeniería - BIO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170083/donayre_torres_alberto.jpg?w=50&f=jpg",
+      "renacyt": "Nivel VI",
+      "temas": [
+        "Biología Sintética",
+        "Biotecnología",
+        "Síntesis y producción de bioproductos",
+        "Bioinformática"
+      ]
+    },
+    {
+      "id": "Jose Fiestas Iquira",
+      "nombre": "Jose Fiestas Iquira",
+      "email": "jfiestas@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Infraestructura de Concreto Resiliente y Sostenible (ReSusCon)",
+        "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170115/fiestas_iquira_jose.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge III",
+      "temas": [
+        "Modelos interdisciplinarios de alto rendimiento computacional (HPC, BigData)",
+        "Desarrollo de algoritmos para GPU y sistemas híbridos (CPU+GPU)",
+        "Desarrollo de Hardware y Software para HPC"
+      ]
+    },
+    {
+      "id": "Elena Flores Barreda",
+      "nombre": "Elena Flores Barreda",
+      "email": "cfloresb@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Bioingeniería e Ingeniería Química"
+      ],
+      "grupos": [
+        "Centro de Investigación en Bioingeniería - BIO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170139/flores_barreda_carmen_elena.jpg?w=50&f=jpg",
+      "renacyt": "Nivel IV",
+      "temas": [
+        "Uso de fibras naturales para biomateriales y químicos",
+        "Descontaminación del agua",
+        "Recuperación de residuos industriales",
+        "Materiales compuestos para construcción"
+      ]
+    },
+    {
+      "id": "Luis Ernesto Flores Luyo",
+      "nombre": "Luis Ernesto Flores Luyo",
+      "email": "lfloresl@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+      ],
+      "foto": "https://cris.utec.edu.pe/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+      "renacyt": null,
+      "temas": []
+    },
+    {
+      "id": "Christian Flores Vega",
+      "nombre": "Christian Flores Vega",
+      "email": "cflores@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170237/flores_vega_christian.jpg?w=50&f=jpg",
+      "renacyt": "Nivel VII",
+      "temas": [
+        "Procesamiento de señales biomédicas",
+        "Interfase Cerebro Computadora (BCI)",
+        "aprendizaje automático para clasificación y pronóstico en diversas aplicaciones"
+      ]
+    },
+    {
+      "id": "José Tomás Gálvez Ghersi",
+      "nombre": "José Tomás Gálvez Ghersi",
+      "email": "jgalvezg@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ciencias"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Física Fundamental (GIFF)",
+        "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170257/galvez_ghersi_jose.jpg?w=50&f=jpg",
+      "renacyt": "Nivel IV",
+      "temas": [
+        "Cosmología del universo primitivo: inflación cósmica y teorías alternativas",
+        "fenomenología de la gravedad fuerte y ondas gravitacionales.",
+        "dinámica no lineal y conexiones entre gravedad y termodinámica"
+      ]
+    },
+    {
+      "id": "Oscar Gamonal Pajares",
+      "nombre": "Oscar Gamonal Pajares",
+      "email": "ogamonal@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170274/gamonal_pajares_oscar.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": []
+    },
+    {
+      "id": "Germain García Zanabria",
+      "nombre": "Germain García Zanabria",
+      "email": null,
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/24148814/garcia-zanabria-germain_1_.jpg?w=50&f=jpg",
+      "renacyt": "Nivel V",
+      "temas": [
+        "Visualización de datos",
+        "machine learning",
+        "data science",
+        "análisis de crímenes",
+        "predicción de crímenes",
+        "dropout análisis",
+        "datos geo-referenciados",
+        "análisis espacio-temporales",
+        "computación aplicada a problemas sociales"
+      ]
+    },
+    {
+      "id": "Jorge Gonzalez Reaño",
+      "nombre": "Jorge Gonzalez Reaño",
+      "email": "jgonzalez@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170336/gonzales_reano_jorge.jpg?w=50&f=jpg",
+      "renacyt": "Nivel  VII",
+      "temas": []
+    },
+    {
+      "id": "Leo Guerrero",
+      "nombre": "Leo Guerrero",
+      "email": null,
+      "departamentos": [],
+      "grupos": [
+        "Centro de Investigación y Tecnología del Agua - CITA"
+      ],
+      "foto": "https://cris.utec.edu.pe/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+      "renacyt": null,
+      "temas": []
+    },
+    {
+      "id": "Juan Gabriel Gutierrez Alva",
+      "nombre": "Juan Gabriel Gutierrez Alva",
+      "email": "jgutierreza@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)",
+        "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170355/gutierrez_alva_juan.jpg?w=50&f=jpg",
+      "renacyt": "Nivel V",
+      "temas": []
+    },
+    {
+      "id": "Julio Gutierrez Alva",
+      "nombre": "Julio Gutierrez Alva",
+      "email": "jgutierreza@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170374/gutierrez_alva_julio.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": []
+    },
+    {
+      "id": "Yuri Herrera Burstein",
+      "nombre": "Yuri Herrera Burstein",
+      "email": "yherrera@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Negocios Digitales"
+      ],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/23816546/Dise_o_sin_t_tulo_46_.png?w=50&f=jpg",
+      "renacyt": null,
+      "temas": []
+    },
+    {
+      "id": "Oscar Hidalgo Wuest",
+      "nombre": "Oscar Hidalgo Wuest",
+      "email": "ohidalgo@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Centro de Impacto y Responsabilidad Social - CIRSO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170394/hidalgo_wuest_oscar.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Lingüística con estudios en fonoaudiología",
+        "interfaz cerebro-lenguaje",
+        "neurociencia",
+        "amazonas y poblaciones nativas."
+      ]
+    },
+    {
+      "id": "Daniel Vicente Horna Muñoz",
+      "nombre": "Daniel Vicente Horna Muñoz",
+      "email": null,
+      "departamentos": [
+        "Departamento de Ingeniería Civil y Ambiental"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Seguridad Hídrica y Cambio Climático (SeHClim)",
+        "Centro de Investigación y Tecnología del Agua - CITA"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170477/horna_munoz_daniel.jpg?w=50&f=jpg",
+      "renacyt": "Nivel IV",
+      "temas": [
+        "Calidad de aire",
+        "modelamiento computacional",
+        "hidráulica",
+        "high performance computing",
+        "LiDAR",
+        "inundaciones",
+        "Modelos computacionales tridimensionales y bidimensionales de dinámica de fluidos para estudiar una variedad de fluidos ambientales y problemas de ingeniería"
+      ]
+    },
+    {
+      "id": "Rocío Hoyos Diaz",
+      "nombre": "Rocío Hoyos Diaz",
+      "email": "rhoyos@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/20164343/hoyos_diaz_rocio.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": []
+    },
+    {
+      "id": "Deyby Huamanchahua Canchanya",
+      "nombre": "Deyby Huamanchahua Canchanya",
+      "email": "dhuamanchahua@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Centro de Investigación en Bioingeniería - BIO",
+        "Grupo de Investigación en Innovación Educativa y Competencia Docente (INECOD)",
+        "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170519/huamanchaua_canchanya_deyby.jpg?w=50&f=jpg",
+      "renacyt": "Nivel VII",
+      "temas": []
+    },
+    {
+      "id": "Dante Inga Narvaez",
+      "nombre": "Dante Inga Narvaez",
+      "email": "dinga@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Centro de Investigación en Bioingeniería - BIO",
+        "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170535/inga_narvaez_dante.jpg?w=50&f=jpg",
+      "renacyt": "Nivel VI",
+      "temas": []
+    },
+    {
+      "id": "Elvis Jara Alegria",
+      "nombre": "Elvis Jara Alegria",
+      "email": "ejara@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170555/jara_alegria_elvis.jpg?w=50&f=jpg",
+      "renacyt": "Nivel VI",
+      "temas": [
+        "Automatización",
+        "análisis de datos",
+        "modelamiento de sistemas no lineales",
+        "identificación de sistemas",
+        "; inteligencia artificial",
+        "aprendizaje automático"
+      ]
+    },
+    {
+      "id": "Enrique Juarez Aquino",
+      "nombre": "Enrique Juarez Aquino",
+      "email": "ejuarez@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/21819856/juarez_aquino_enrique.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Gestión de proyectos de construcción con un enfoque en la Entrega Integrada de Proyectos (IPD) con el apoyo de LEAN",
+        "PMO"
+      ]
+    },
+    {
+      "id": "Wangdo Kim",
+      "nombre": "Wangdo Kim",
+      "email": "mwdkim@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Mecánica y de la Energía"
+      ],
+      "grupos": [
+        "Centro de Investigación en Bioingeniería - BIO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170595/kim_wangdo.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge III",
+      "temas": [
+        "Biomechanics",
+        "Bioengineering",
+        "Rehabilitation",
+        "Biocemánica ortopédica"
+      ]
+    },
+    {
+      "id": "Jose Larco Martinelli",
+      "nombre": "Jose Larco Martinelli",
+      "email": "jlarco@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170830/larco_martinelli_jose_antonio.jpg?w=50&f=jpg",
+      "renacyt": "MARIA ROSTWOROWSKI III",
+      "temas": [
+        "Gestión de operaciones",
+        "estudio del comportamiento de las operaciones para modelos de planificación y flujos de trabajo",
+        "sistemas logísticos alimentarios",
+        "sistemas de distribución del canal tradicional"
+      ]
+    },
+    {
+      "id": "Cristian Lopez Del Alamo",
+      "nombre": "Cristian Lopez Del Alamo",
+      "email": "clopezd@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ciencia de la Computación"
+      ],
+      "grupos": [
+        "Centro de Investigación en Sostenibilidad Computacional - CompSust",
+        "Grupo de Investigación en Inteligencia Artificial (GINIA)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19170865/lopez_delalamo_cristian.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge IV",
+      "temas": [
+        "Aprendizaje profundo de geometría",
+        "Aprendizaje automático y algorítmica",
+        "Procesamiento de imágenes",
+        "Data Mining"
+      ]
+    },
+    {
+      "id": "Milagros Lunga Calderón",
+      "nombre": "Milagros Lunga Calderón",
+      "email": "mlunga@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/21820262/lunga_calderon_milagros_cecilia.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Business and Economics",
+        "Finanas"
+      ]
+    },
+    {
+      "id": "José Luis Mantari Laureano",
+      "nombre": "José Luis Mantari Laureano",
+      "email": "jmantari@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ciencias"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/21820910/mantari_laureano_jose_luis.jpg?w=50&f=jpg",
+      "renacyt": "Investigador Distinguido",
+      "temas": [
+        "diseño de productos",
+        "simulaciones computacionales",
+        "biomecánica",
+        "diseño y cálculo estructural en acero y materiales compuestos y plásticos",
+        "elementos finitos",
+        "elementos discretos",
+        "estructuras inteligentes",
+        "estrés térmico",
+        "estabilidad y seguridad de embarcaciones pesqueras y buques"
+      ]
+    },
+    {
+      "id": "Giancarlo Marcone Flores",
+      "nombre": "Giancarlo Marcone Flores",
+      "email": "gmarcone@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Humanidades, Artes y Ciencias Sociales"
+      ],
+      "grupos": [
+        "Centro de Impacto y Responsabilidad Social - CIRSO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/24694625/marcone-flores-giancarlo.jpg?w=50&f=jpg",
+      "renacyt": "Nivel V",
+      "temas": [
+        "Patrimonio y su gestión participativa",
+        "antropología del movimiento e Interacciones interregionales"
+      ]
+    },
+    {
+      "id": "Diego Alejandro Milanés Carreño",
+      "nombre": "Diego Alejandro Milanés Carreño",
+      "email": "dmilanes@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ciencias"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Física Fundamental (GIFF)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/25685589/milanes-carrenio-diego-alejandro.jpg?w=50&f=jpg",
+      "renacyt": "Nivel Investigador Distinguido",
+      "temas": [
+        "Física experimental de partículas fundamentales",
+        "Simetría materia y antimateria",
+        "Física de hadrones pesados",
+        "Física Computacional"
+      ]
+    },
+    {
+      "id": "Rensso Victor Hugo Mora Colque",
+      "nombre": "Rensso Victor Hugo Mora Colque",
+      "email": "rmora@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ciencia de la Computación"
+      ],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/25783575/mora-colque-rensso-victor-hugo_.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Visión por computadora",
+        "Aprendizaje automático",
+        "Series temporales"
+      ]
+    },
+    {
+      "id": "Monica Cristina Moreno Brush",
+      "nombre": "Monica Cristina Moreno Brush",
+      "email": null,
+      "departamentos": [],
+      "grupos": [
+        "Centro de Investigación y Tecnología del Agua - CITA"
+      ],
+      "foto": "https://cris.utec.edu.pe/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png",
+      "renacyt": null,
+      "temas": []
+    },
+    {
+      "id": "Angel Napa Bernuy",
+      "nombre": "Angel Napa Bernuy",
+      "email": "anapa@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/21850417/napa_bernuy_angel.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Algoritmos",
+        "Teoría de Grafos",
+        "Optimización Combinatoria",
+        "Investigación de Operaciones",
+        "Matemáticas Discretas"
+      ]
+    },
+    {
+      "id": "Julien Noel",
+      "nombre": "Julien Noel",
+      "email": "jnoel@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Mecánica y de la Energía"
+      ],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171121/julien_noel.jpg?w=50&f=jpg",
+      "renacyt": "Nivel III",
+      "temas": [
+        "Redes eléctricas inteligentes",
+        "Vehículos eléctricos",
+        "ciberseguridad para la distribución de energía de la red",
+        "ciencia ambiental para el sector energético: transición energética",
+        "ingeniería social para la base de la pirámide",
+        "Sistemas microelectomecánicos (MEMS)",
+        "ciencia de los materiales"
+      ]
+    },
+    {
+      "id": "Moises Nuñez Ochoa",
+      "nombre": "Moises Nuñez Ochoa",
+      "email": "mnunez@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Sistemas Embebidos, Reconfigurables, Monitoreo Inteligente, y Comunicaciones (SERMIC)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171193/nunez_ochoa_moises.jpg?w=50&f=jpg",
+      "renacyt": "MARIA ROSTWOROWSKI II",
+      "temas": []
+    },
+    {
+      "id": "Maria Belén Ortiz García",
+      "nombre": "Maria Belén Ortiz García",
+      "email": "mortizg@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Industrial y Gestión de la Ingeniería"
+      ],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171246/ortiz_garcia_maria_belen.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Sistemas Integrados de Gestión",
+        "Gestión por Procesos y herramientas de Mejora Continua",
+        "Ingeniería Cognitiva/Factores Humanos."
+      ]
+    },
+    {
+      "id": "Hermes Pantoja Carhuavilca",
+      "nombre": "Hermes Pantoja Carhuavilca",
+      "email": "hpantoja@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171263/pantoja_carhuavilca_hermes.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge IV",
+      "temas": []
+    },
+    {
+      "id": "Carolina Parada Quinaya",
+      "nombre": "Carolina Parada Quinaya",
+      "email": "dparada@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171281/parada_quinaya_diana.jpg?w=50&f=jpg",
+      "renacyt": "Nivel III",
+      "temas": [
+        "Compuestos sostenibles",
+        "polímeros lignocelulósicos compuestos de residuos agrícolas",
+        "biomateriales y bioplásticos",
+        "revestimientos de polímeros bioactivos",
+        "ingeniería de bioprocesos",
+        "mejora del proceso de electrodeposición de cobre utilizando soluciones libres de cianuro"
+      ]
+    },
+    {
+      "id": "Alexander Peña Nevado",
+      "nombre": "Alexander Peña Nevado",
+      "email": "apena@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171302/pena_nevado_alexander.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": []
+    },
+    {
+      "id": "Sergio Quispe Rodriguez",
+      "nombre": "Sergio Quispe Rodriguez",
+      "email": "squispe@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171327/quispe_rodriguez_sergio.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": []
+    },
+    {
+      "id": "Elmer Ramirez Quiroz",
+      "nombre": "Elmer Ramirez Quiroz",
+      "email": "eramirez@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171353/ramirez_quiroz_elmer.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": []
+    },
+    {
+      "id": "Oscar Ramos Ponce",
+      "nombre": "Oscar Ramos Ponce",
+      "email": "oramos@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Electrónica y Mecatrónica"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Robótica, Inteligencia Artificial y Control Avanzado (RIC)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/21816239/ramos_ponce_oscar.jpg?w=50&f=jpg",
+      "renacyt": "Nivel V",
+      "temas": [
+        "Machine learning y deep learning a sistemas inteligentes",
+        "robótica autónoma",
+        "ontrol de movimiento para robots móviles y redundantes con base en visión computacional y deep reinforcement learning."
+      ]
+    },
+    {
+      "id": "José Ramos Saravia",
+      "nombre": "José Ramos Saravia",
+      "email": "jramos@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Diseño de Productos con Simulación Computacional (MSP)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171379/ramos_saravia_jose.jpg?w=50&f=jpg",
+      "renacyt": "MARIA ROSTWOROWSKI I",
+      "temas": [
+        "Termodinámica",
+        "Valorización de Residuos",
+        "Gasificación de Residuos Sólidos",
+        "Gasificación con Plasma",
+        "Eficiencia Energética Térmica",
+        "Producción de Hidrógeno con Energías",
+        "Sistemas Energéticos Térmicos",
+        "Procesos Térmicos",
+        "Pilas de Combustible accionados con Hidrógeno",
+        "Integración de Energías Renovables",
+        "Sistemas Energéticos de Poligeneración",
+        "Cogeneración",
+        "Trigeneración",
+        "Centrales de Ciclo Combinado",
+        "Centrales Térmicas Convencionales"
+      ]
+    },
+    {
+      "id": "Alejandra Ratti Parandelli",
+      "nombre": "Alejandra Ratti Parandelli",
+      "email": "aratti@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171395/ratti_parandelli_alejandra.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Ciencia y cocina",
+        "bioquímica clínica",
+        "microbiología",
+        "proteómica",
+        "sistemas de expresión en levaduras",
+        "diseño de enzimas recombiantes",
+        "ingeniería genética",
+        "Investigación e innovación en métodos de enseñanza y de evaluación en universidades"
+      ]
+    },
+    {
+      "id": "Pedro Rau Lavado",
+      "nombre": "Pedro Rau Lavado",
+      "email": "prau@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Civil y Ambiental"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Seguridad Hídrica y Cambio Climático (SeHClim)",
+        "Centro de Investigación y Tecnología del Agua - CITA"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171498/rau_lavado_pedro.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge III",
+      "temas": [
+        "Procesos hidrológicos.",
+        "hidrología de montaña",
+        "hidrología de zonas áridas",
+        "hidroclimatología",
+        "impactos de la variabilidad y el cambio climático",
+        "ingeniería hidrológica",
+        "administracion del agua"
+      ]
+    },
+    {
+      "id": "Jose Renom Andara",
+      "nombre": "Jose Renom Andara",
+      "email": "jrenom@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/21816332/renom_andara_jose.jpg?w=50&f=jpg",
+      "renacyt": "MARIA ROSTWOROWSKI I",
+      "temas": [
+        "Teoría de grafos",
+        "Estadística aplicada",
+        "Probabilidades",
+        "Simulación y análisis de datos"
+      ]
+    },
+    {
+      "id": "Alejandro Rios Cuadros",
+      "nombre": "Alejandro Rios Cuadros",
+      "email": "arios@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ciencias"
+      ],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171519/rios_cuadros_alejandro.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Nanomateriales y Semiconductores"
+      ]
+    },
+    {
+      "id": "Juan Carlos Rodríguez Reyes",
+      "nombre": "Juan Carlos Rodríguez Reyes",
+      "email": "jcrodriguez@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Bioingeniería e Ingeniería Química"
+      ],
+      "grupos": [
+        "Centro de Investigación y Conservación del Patrimonio"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171551/rodriguez_reyes_juancarlos.jpg?w=50&f=jpg",
+      "renacyt": "Nivel I",
+      "temas": [
+        "Conservación del Patrimonio",
+        "Nanomateriales",
+        "Procesamiento de minerales",
+        "Metalurgia extractiva"
+      ]
+    },
+    {
+      "id": "Ursula Rodriguez Zuñiga",
+      "nombre": "Ursula Rodriguez Zuñiga",
+      "email": "urodriguez@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171564/rodriguez_zuniga_ursula.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge IV",
+      "temas": [
+        "Análisis Espectroscópicas",
+        "Ingeniería Ambiental",
+        "Bioprocesos",
+        "Ingeniería bioquímica",
+        "Fermentación para producción de enzimas",
+        "Biocombustibles"
+      ]
+    },
+    {
+      "id": "Harry Gustavo Saavedra Espinoza",
+      "nombre": "Harry Gustavo Saavedra Espinoza",
+      "email": "hsaavedra@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Bioingeniería e Ingeniería Química"
+      ],
+      "grupos": [
+        "Centro de Investigación en Bioingeniería - BIO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171593/saavedra_espinoza_harry_gustavo.jpg?w=50&f=jpg",
+      "renacyt": "Nivel VI",
+      "temas": [
+        "Biofísica de proteínas",
+        "sistemas biológicos para combatir enfermedades",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "Heider Sánchez Enriquez",
+      "nombre": "Heider Sánchez Enriquez",
+      "email": "hsanchez@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/21849976/sanchez_enriquez_heider.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Análisis y desarrollo de software",
+        "minería de datos",
+        "inteligencia artificial"
+      ]
+    },
+    {
+      "id": "Nedher Sanchez Ramirez",
+      "nombre": "Nedher Sanchez Ramirez",
+      "email": "nsanchezr@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/20164583/sanchez_ramirez_nedher.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Ciencias químicas",
+        "Electroquímica en particular baterías de ion litio y líquidos iónicos"
+      ]
+    },
+    {
+      "id": "Monica C. Santa-Maria",
+      "nombre": "Monica C. Santa-Maria",
+      "email": "msantamaria@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Civil y Ambiental"
+      ],
+      "grupos": [
+        "Centro de Investigación y Tecnología del Agua - CITA"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171063/santamaria_fuster_monica.jpg?w=50&f=jpg",
+      "renacyt": "Nivel III",
+      "temas": [
+        "Barcoding, metabarcoding y ADN ambiental para monitoreo ambiental",
+        "Ingeniería de sistemas biológicos para aplicaciones ambientales",
+        "Epidemiología basada en aguas residuales"
+      ]
+    },
+    {
+      "id": "José Santiváñez Guarniz",
+      "nombre": "José Santiváñez Guarniz",
+      "email": "jsantivanez@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/24269202/santi.png?w=50&f=jpg",
+      "renacyt": null,
+      "temas": []
+    },
+    {
+      "id": "Yamilet Rosario Serrano Llerena",
+      "nombre": "Yamilet Rosario Serrano Llerena",
+      "email": "yserrano@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ciencia de Datos y Sistemas de Información"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Inteligencia Artificial (GINIA)",
+        "Grupo de Investigación en Analítica de Datos y Ciencias de Decisión (DADS)",
+        "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171627/serrano_llerena_yamilet.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge IV",
+      "temas": [
+        "Ingenieria de software",
+        "Computación Sostenible",
+        "Inteligencia Artificial",
+        "Ciencia de Datos",
+        "Proyectos relacionados con las áreas de Ciencia de Computación"
+      ]
+    },
+    {
+      "id": "Igor Siveroni Salinas",
+      "nombre": "Igor Siveroni Salinas",
+      "email": "isiveroni@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Centro de Investigación en Sostenibilidad Computacional - CompSust"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/24103768/igor.png?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Métodos formales",
+        "computación científica y aplicada",
+        "análisis filodinámico",
+        "l estudio de la dinámica de las enfermedades infecciosas"
+      ]
+    },
+    {
+      "id": "Aurea Rossy Soriano Vargas",
+      "nombre": "Aurea Rossy Soriano Vargas",
+      "email": "asoriano@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ciencia de la Computación"
+      ],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/26454982/soriano-vargas-aurea-rossy.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Inteligencia artificial",
+        "análisis visual",
+        "ciencia de datos",
+        "representación de datos",
+        "aprendizaje automático",
+        "aprendizaje profundo"
+      ]
+    },
+    {
+      "id": "Enrique Stiglich Labarthe",
+      "nombre": "Enrique Stiglich Labarthe",
+      "email": "estiglich@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/23816640/Dise_o_sin_t_tulo_49_.png?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Transformación de los modelos educativos",
+        "consultoría empresarial",
+        "finanzas corporativas"
+      ]
+    },
+    {
+      "id": "Matteo Stiglich Labarthe",
+      "nombre": "Matteo Stiglich Labarthe",
+      "email": "mstiglich@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Humanidades, Artes y Ciencias Sociales"
+      ],
+      "grupos": [
+        "Centro de Impacto y Responsabilidad Social - CIRSO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/24097563/stiglich-labarthe-matteo.jpg?w=50&f=jpg",
+      "renacyt": "Nivel VII",
+      "temas": [
+        "Economía política de la planificación urbana",
+        "planificación de infraestructura y transporte urbano",
+        "historia urbana contemporánea"
+      ]
+    },
+    {
+      "id": "Francisco Tarazona Vásquez",
+      "nombre": "Francisco Tarazona Vásquez",
+      "email": "ftarazona@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171653/tarazona_vasquez_francisco.jpg?w=50&f=jpg",
+      "renacyt": "Nivel IV",
+      "temas": [
+        "Simulación molecular",
+        "análisis termodinámicos",
+        "imulación e ingeniería de procesos"
+      ]
+    },
+    {
+      "id": "Jimmy Tarrillo Olano",
+      "nombre": "Jimmy Tarrillo Olano",
+      "email": "jtarrillo@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Electrónica y Mecatrónica"
+      ],
+      "grupos": [
+        "Grupo de Investigación en Sistemas Embebidos, Reconfigurables, Monitoreo Inteligente, y Comunicaciones (SERMIC)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171742/tarrillo_olano_jimmy.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge III",
+      "temas": [
+        "Tolerancia a fallos en FPGAs",
+        "efectos de radiación en circuitos digitales",
+        "sistemas reconfigurables",
+        "redes de sensores inalámbricos",
+        "adquisición de señales",
+        "sistemas embebidos"
+      ]
+    },
+    {
+      "id": "Jorge Tipe Villanueva",
+      "nombre": "Jorge Tipe Villanueva",
+      "email": "jtipe@utec.edu..pe",
+      "departamentos": [],
+      "grupos": [
+        "Grupo de Investigación en Algoritmos, Combinatoria y Teoría de la Computación (ALGCOMB)"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/21817571/tipe_villanueva_jorge.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Matemática aplicada",
+        "Informática",
+        "Métodos de Demostración",
+        "Estructuras Discretas",
+        "Conteo y Teoría de Grafos"
+      ]
+    },
+    {
+      "id": "David Wilfredo Torres Escobar",
+      "nombre": "David Wilfredo Torres Escobar",
+      "email": "dtorres@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/25754099/torres-escobar-david-wilfredo.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "biodiversidad",
+        "servicios ecosistémicos",
+        "gestión",
+        "capital natural",
+        "mercados ambientales"
+      ]
+    },
+    {
+      "id": "Julio Ernesto Valdivia Silva",
+      "nombre": "Julio Ernesto Valdivia Silva",
+      "email": "jvaldivias@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Bioingeniería e Ingeniería Química"
+      ],
+      "grupos": [
+        "Centro de Investigación en Bioingeniería - BIO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171765/valdivia_silva_julio.jpg?w=50&f=jpg",
+      "renacyt": "Nivel II",
+      "temas": [
+        "Astrobiología",
+        "inmunología del cáncer (oncología)",
+        "regeneración de tejidos y biología de células madre",
+        "biología sintética",
+        "microdispositivos",
+        "tecnología de laboratorio en un chip."
+      ]
+    },
+    {
+      "id": "Elba Rosaura Vazques Arrieta",
+      "nombre": "Elba Rosaura Vazques Arrieta",
+      "email": "rvasqueza@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [
+        "Centro de Investigación del Cemento y Concreto - CIC"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/24148806/vazques-arrieta-rosaura.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Desarrollo de cementos de bajo carbono",
+        "ingeniería metalúrgica"
+      ]
+    },
+    {
+      "id": "Emir Augusto Vela Saavedra",
+      "nombre": "Emir Augusto Vela Saavedra",
+      "email": "evela@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Mecánica y de la Energía"
+      ],
+      "grupos": [
+        "Centro de Investigación en Bioingeniería - BIO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171783/vela_saavedra_emir_augusto.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge II",
+      "temas": [
+        "Biomecánica",
+        "Robótica para rehabilitación y asistencia",
+        "MicroRobótica",
+        "Dispositivos sensoriales"
+      ]
+    },
+    {
+      "id": "Rafael Vera Pomalaza",
+      "nombre": "Rafael Vera Pomalaza",
+      "email": "rvera@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171819/vera_pomalaza_rafael.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Energías renovables",
+        "sistemas eléctricos",
+        "electrotecnia industrial"
+      ]
+    },
+    {
+      "id": "Eunice Villicaña Ortiz",
+      "nombre": "Eunice Villicaña Ortiz",
+      "email": "evillicana@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Ingeniería Mecánica y de la Energía"
+      ],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171837/villicana_ortiz_eunice.jpg?w=50&f=jpg",
+      "renacyt": "Maria Rostworowski II",
+      "temas": [
+        "Energías renovables",
+        "Eficiencia energética",
+        "Ingeniería electrónica"
+      ]
+    },
+    {
+      "id": "Akira Armando Wong Sato",
+      "nombre": "Akira Armando Wong Sato",
+      "email": "awong@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/26455000/wong-sato-akira-armando-2.jpg?w=50&f=jpg",
+      "renacyt": "Nivel V",
+      "temas": [
+        "Ecología",
+        "Interacciones ecológicas",
+        "Biología de Conservación",
+        "Dinámica Forestal"
+      ]
+    },
+    {
+      "id": "Romina Perla Yalonetzky Mankevich",
+      "nombre": "Romina Perla Yalonetzky Mankevich",
+      "email": "ryalonetzky@utec.edu.pe",
+      "departamentos": [
+        "Departamento de Humanidades, Artes y Ciencias Sociales"
+      ],
+      "grupos": [
+        "Centro de Impacto y Responsabilidad Social - CIRSO"
+      ],
+      "foto": "https://cris.utec.edu.pe/files-asset/21816575/yalonetzky_mankevich_romina_perla_.jpg?w=50&f=jpg",
+      "renacyt": "Carlos Monge IV",
+      "temas": [
+        "Sociología",
+        "Filosofía",
+        "Minorías religiosas"
+      ]
+    },
+    {
+      "id": "Katia Zegarra Sierra",
+      "nombre": "Katia Zegarra Sierra",
+      "email": "kzegarras@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19171861/zegarra_sierra_katia.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Física y óptica aplicada",
+        "Caracterización óptica de materiales semiconductores",
+        "Dinámica de sistemas"
+      ]
+    },
+    {
+      "id": "Carlos Zorrilla Aranguren",
+      "nombre": "Carlos Zorrilla Aranguren",
+      "email": "czorrilla@utec.edu.pe",
+      "departamentos": [],
+      "grupos": [],
+      "foto": "https://cris.utec.edu.pe/files-asset/19489162/zorrilla_aranguren_carlos.jpg?w=50&f=jpg",
+      "renacyt": null,
+      "temas": [
+        "Comunicación social",
+        "Marketing y Comunicaciones",
+        "Sociología de las Organizaciones"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "Helard Alvarez Sanchez",
+      "target": "Wangdo Kim",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Helard Alvarez Sanchez",
+      "target": "José Luis Mantari Laureano",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Helard Alvarez Sanchez",
+      "target": "Ruth Canahuire Cabello",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Helard Alvarez Sanchez",
+      "target": "Samuel Charca Mamani",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Monica C. Santa-Maria",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Alberto Donayre Torres",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Yamilet Rosario Serrano Llerena",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Jose Renom Andara",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Jose Larco Martinelli",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Claudia Antonini Bova",
+      "target": "Jesús Edwin Bellido Angulo",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Sergio Aranda Egusquiza",
+      "target": "Christian Flores Vega",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Sergio Aranda Egusquiza",
+      "target": "Cristian Lopez Del Alamo",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jesús Edwin Bellido Angulo",
+      "target": "Dante Inga Narvaez",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jesús Edwin Bellido Angulo",
+      "target": "Yamilet Rosario Serrano Llerena",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jesús Edwin Bellido Angulo",
+      "target": "Claudia Antonini Bova",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jesús Edwin Bellido Angulo",
+      "target": "Fabien Cornillier",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jesús Edwin Bellido Angulo",
+      "target": "Jose Renom Andara",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Ruth Canahuire Cabello",
+      "target": "Oscar Ramos Ponce",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Ruth Canahuire Cabello",
+      "target": "Elvis Jara Alegria",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Ruth Canahuire Cabello",
+      "target": "Emir Augusto Vela Saavedra",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Ruth Canahuire Cabello",
+      "target": "José Luis Mantari Laureano",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Ruth Canahuire Cabello",
+      "target": "Helard Alvarez Sanchez",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Ruth Canahuire Cabello",
+      "target": "Julio Ernesto Valdivia Silva",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Paul Cardenas Lizana",
+      "target": "Ruth Canahuire Cabello",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Paul Cardenas Lizana",
+      "target": "Julio Ernesto Valdivia Silva",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Samuel Charca Mamani",
+      "target": "Elena Flores Barreda",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Samuel Charca Mamani",
+      "target": "José Luis Mantari Laureano",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Samuel Charca Mamani",
+      "target": "Julien Noel",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Samuel Charca Mamani",
+      "target": "Christian Flores Vega",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Samuel Charca Mamani",
+      "target": "Helard Alvarez Sanchez",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Fabien Cornillier",
+      "target": "Elmer Ramirez Quiroz",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Fabien Cornillier",
+      "target": "Jesús Edwin Bellido Angulo",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Fabien Cornillier",
+      "target": "Claudia Antonini Bova",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Fabien Cornillier",
+      "target": "Yamilet Rosario Serrano Llerena",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Fabien Cornillier",
+      "target": "Jose Renom Andara",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Antuané De La Flor Basterrechea",
+      "target": "Giancarlo Marcone Flores",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "José Andrés De Leo Martínez",
+      "target": "Grace Alexandrino Ocaña",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Claudia Antonini Bova",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Monica C. Santa-Maria",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Alberto Donayre Torres",
+      "target": "Jose Renom Andara",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jose Fiestas Iquira",
+      "target": "José Tomás Gálvez Ghersi",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Elena Flores Barreda",
+      "target": "Samuel Charca Mamani",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Elena Flores Barreda",
+      "target": "Carolina Parada Quinaya",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Elena Flores Barreda",
+      "target": "Luis Bedriñana Mera",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Elena Flores Barreda",
+      "target": "Ursula Rodriguez Zuñiga",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Elena Flores Barreda",
+      "target": "Monica C. Santa-Maria",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Elena Flores Barreda",
+      "target": "Pedro Rau Lavado",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Christian Flores Vega",
+      "target": "Julien Noel",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Christian Flores Vega",
+      "target": "Eunice Villicaña Ortiz",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Christian Flores Vega",
+      "target": "Jimmy Tarrillo Olano",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Christian Flores Vega",
+      "target": "Deyby Huamanchahua Canchanya",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Christian Flores Vega",
+      "target": "Samuel Charca Mamani",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "José Tomás Gálvez Ghersi",
+      "target": "Jose Fiestas Iquira",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "José Tomás Gálvez Ghersi",
+      "target": "Emir Augusto Vela Saavedra",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Leo Guerrero",
+      "target": "Daniel Vicente Horna Muñoz",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Daniel Vicente Horna Muñoz",
+      "target": "Pedro Rau Lavado",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Daniel Vicente Horna Muñoz",
+      "target": "Leo Guerrero",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Daniel Vicente Horna Muñoz",
+      "target": "Jimmy Tarrillo Olano",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Deyby Huamanchahua Canchanya",
+      "target": "Christian Flores Vega",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Dante Inga Narvaez",
+      "target": "Elvis Jara Alegria",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Elvis Jara Alegria",
+      "target": "Dante Inga Narvaez",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Wangdo Kim",
+      "target": "Emir Augusto Vela Saavedra",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Wangdo Kim",
+      "target": "Helard Alvarez Sanchez",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jose Larco Martinelli",
+      "target": "Cristian Lopez Del Alamo",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jose Larco Martinelli",
+      "target": "Claudia Antonini Bova",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jose Larco Martinelli",
+      "target": "Yamilet Rosario Serrano Llerena",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Cristian Lopez Del Alamo",
+      "target": "Jose Larco Martinelli",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Cristian Lopez Del Alamo",
+      "target": "Claudia Antonini Bova",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Cristian Lopez Del Alamo",
+      "target": "Yamilet Rosario Serrano Llerena",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "José Luis Mantari Laureano",
+      "target": "Helard Alvarez Sanchez",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "José Luis Mantari Laureano",
+      "target": "Samuel Charca Mamani",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "José Luis Mantari Laureano",
+      "target": "Ruth Canahuire Cabello",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Giancarlo Marcone Flores",
+      "target": "Antuané De La Flor Basterrechea",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Julien Noel",
+      "target": "Christian Flores Vega",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Julien Noel",
+      "target": "Samuel Charca Mamani",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Julien Noel",
+      "target": "Emir Augusto Vela Saavedra",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Julien Noel",
+      "target": "Elmer Ramirez Quiroz",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Julien Noel",
+      "target": "Julio Ernesto Valdivia Silva",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Julien Noel",
+      "target": "Eunice Villicaña Ortiz",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Moises Nuñez Ochoa",
+      "target": "Jimmy Tarrillo Olano",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Hermes Pantoja Carhuavilca",
+      "target": "Eunice Villicaña Ortiz",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Hermes Pantoja Carhuavilca",
+      "target": "José Ramos Saravia",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Carolina Parada Quinaya",
+      "target": "Eunice Villicaña Ortiz",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Carolina Parada Quinaya",
+      "target": "Elena Flores Barreda",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Carolina Parada Quinaya",
+      "target": "Juan Carlos Rodríguez Reyes",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Carolina Parada Quinaya",
+      "target": "Jimmy Tarrillo Olano",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Carolina Parada Quinaya",
+      "target": "Alejandra Ratti Parandelli",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Elmer Ramirez Quiroz",
+      "target": "Julien Noel",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Elmer Ramirez Quiroz",
+      "target": "Eunice Villicaña Ortiz",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Oscar Ramos Ponce",
+      "target": "Ruth Canahuire Cabello",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Oscar Ramos Ponce",
+      "target": "Elvis Jara Alegria",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Oscar Ramos Ponce",
+      "target": "Dante Inga Narvaez",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Oscar Ramos Ponce",
+      "target": "Deyby Huamanchahua Canchanya",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Oscar Ramos Ponce",
+      "target": "Jimmy Tarrillo Olano",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Oscar Ramos Ponce",
+      "target": "Julio Ernesto Valdivia Silva",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Alejandra Ratti Parandelli",
+      "target": "Carolina Parada Quinaya",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Alejandra Ratti Parandelli",
+      "target": "Elena Flores Barreda",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Pedro Rau Lavado",
+      "target": "Daniel Vicente Horna Muñoz",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Pedro Rau Lavado",
+      "target": "Julio Ernesto Valdivia Silva",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Pedro Rau Lavado",
+      "target": "Julien Noel",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Pedro Rau Lavado",
+      "target": "Elena Flores Barreda",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jose Renom Andara",
+      "target": "Monica C. Santa-Maria",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jose Renom Andara",
+      "target": "Claudia Antonini Bova",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jose Renom Andara",
+      "target": "Jesús Edwin Bellido Angulo",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jose Renom Andara",
+      "target": "Fabien Cornillier",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jose Renom Andara",
+      "target": "Alberto Donayre Torres",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jose Renom Andara",
+      "target": "Yamilet Rosario Serrano Llerena",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Juan Carlos Rodríguez Reyes",
+      "target": "Francisco Tarazona Vásquez",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Juan Carlos Rodríguez Reyes",
+      "target": "Carolina Parada Quinaya",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Juan Carlos Rodríguez Reyes",
+      "target": "Jimmy Tarrillo Olano",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Juan Carlos Rodríguez Reyes",
+      "target": "Julio Ernesto Valdivia Silva",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Ursula Rodriguez Zuñiga",
+      "target": "Juan Carlos Rodríguez Reyes",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Ursula Rodriguez Zuñiga",
+      "target": "Francisco Tarazona Vásquez",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Ursula Rodriguez Zuñiga",
+      "target": "Monica C. Santa-Maria",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Ursula Rodriguez Zuñiga",
+      "target": "Elena Flores Barreda",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Monica C. Santa-Maria",
+      "target": "Claudia Antonini Bova",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Monica C. Santa-Maria",
+      "target": "Alberto Donayre Torres",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Monica C. Santa-Maria",
+      "target": "Jose Renom Andara",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Monica C. Santa-Maria",
+      "target": "Ursula Rodriguez Zuñiga",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Monica C. Santa-Maria",
+      "target": "Elena Flores Barreda",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Monica C. Santa-Maria",
+      "target": "Jimmy Tarrillo Olano",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Yamilet Rosario Serrano Llerena",
+      "target": "Jesús Edwin Bellido Angulo",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Yamilet Rosario Serrano Llerena",
+      "target": "Claudia Antonini Bova",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Yamilet Rosario Serrano Llerena",
+      "target": "Jose Larco Martinelli",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Yamilet Rosario Serrano Llerena",
+      "target": "Cristian Lopez Del Alamo",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Yamilet Rosario Serrano Llerena",
+      "target": "Fabien Cornillier",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Yamilet Rosario Serrano Llerena",
+      "target": "Jose Renom Andara",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Francisco Tarazona Vásquez",
+      "target": "Juan Carlos Rodríguez Reyes",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Francisco Tarazona Vásquez",
+      "target": "Ursula Rodriguez Zuñiga",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jimmy Tarrillo Olano",
+      "target": "Moises Nuñez Ochoa",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jimmy Tarrillo Olano",
+      "target": "Christian Flores Vega",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jimmy Tarrillo Olano",
+      "target": "Carolina Parada Quinaya",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jimmy Tarrillo Olano",
+      "target": "Ruth Canahuire Cabello",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jimmy Tarrillo Olano",
+      "target": "Emir Augusto Vela Saavedra",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Jimmy Tarrillo Olano",
+      "target": "Monica C. Santa-Maria",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Julio Ernesto Valdivia Silva",
+      "target": "Emir Augusto Vela Saavedra",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Julio Ernesto Valdivia Silva",
+      "target": "Deyby Huamanchahua Canchanya",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Julio Ernesto Valdivia Silva",
+      "target": "Ruth Canahuire Cabello",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Julio Ernesto Valdivia Silva",
+      "target": "Julien Noel",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Julio Ernesto Valdivia Silva",
+      "target": "Paul Cardenas Lizana",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Julio Ernesto Valdivia Silva",
+      "target": "Juan Carlos Rodríguez Reyes",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Emir Augusto Vela Saavedra",
+      "target": "Julio Ernesto Valdivia Silva",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Emir Augusto Vela Saavedra",
+      "target": "Wangdo Kim",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Emir Augusto Vela Saavedra",
+      "target": "Ruth Canahuire Cabello",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Emir Augusto Vela Saavedra",
+      "target": "Julien Noel",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Emir Augusto Vela Saavedra",
+      "target": "Jimmy Tarrillo Olano",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Rafael Vera Pomalaza",
+      "target": "Eunice Villicaña Ortiz",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Rafael Vera Pomalaza",
+      "target": "Julien Noel",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Eunice Villicaña Ortiz",
+      "target": "Christian Flores Vega",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Eunice Villicaña Ortiz",
+      "target": "Julien Noel",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Eunice Villicaña Ortiz",
+      "target": "Rafael Vera Pomalaza",
+      "tipo": "similitud",
+      "peso": 1
+    },
+    {
+      "source": "Eunice Villicaña Ortiz",
+      "target": "Elmer Ramirez Quiroz",
+      "tipo": "similitud",
+      "peso": 1
+    }
+  ]
+}
